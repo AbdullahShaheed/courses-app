@@ -20,7 +20,7 @@
 
  The admin can send emails to all registered users to notify them for something like a new course will soon published or for discount period announcement.
 
-The rights:
+**The rights:**
 
  The visitor can only navigate to see courses, filtering, and see the demos. Other lessons will be locked until he enrolls.
 
