@@ -1,4 +1,5 @@
-Features:
+**Features:**
+
  What are the rights for not logged in user rights, logged in user rights, enrolled user rights, and admin user rights? But who is the admin? He is Mosh –the courses author- and another one or two authors that have few courses with him.
 
  The courses are Cards and the site should be responsive.
